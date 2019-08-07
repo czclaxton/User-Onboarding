@@ -1,7 +1,7 @@
 import React from "react";
 
 const UserList = props => {
-  console.log("props: ", props);
+  console.log("props here: ", props);
   return (
     <div>
       <div className="headerWrapper">
